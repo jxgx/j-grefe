@@ -1,0 +1,24 @@
+body {
+    background-color: white;
+    margin-left: 43px;
+    line-height: 76%; 
+    font-family: "Agave", "Cascadia Code", "Agave Nerd Mono Font", monospace;
+    font-size: 11pt;
+
+}
+
+a:link {
+    color: purple;
+}
+
+a:visited {
+    color: #3c3c3c;
+}
+
+a:hover {
+    color: green;
+}
+
+a:active {
+    color: pink;
+}
