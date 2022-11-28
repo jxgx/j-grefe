@@ -24,8 +24,9 @@ a:active {
 }
 
 p {
-    margin-top: 75px;
-    margin-bottom: 100px;
+    margin-top: 80px;
+    margin-bottom: 120px;
     margin-left: 43px;
-    margin-right: 87px
+    margin-right: 80px;
+    line-height: normal;
 }
