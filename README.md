@@ -1,8 +1,9 @@
 # j-grefe
 
-A very simple text-based personal page. 
-The focus is solely on the projects themselves.
-The site also works as a creative curation, an assemblage of artistic smears and obsessions. 
+jamie-grefe.com is a very simple text-based static site.
+I'll be using HTML and CSS to accomplish the simplicity I desire. 
+
+The site also works as a creative curation of my personal and professional work -- an assemblage of artistic smears and obsessions. 
 
 xoxo
 JG
