@@ -8,19 +8,19 @@ body {
 }
 
 a:link {
-    color: blue;
+    color: orange;
 }
 
 a:visited {
-    color: red;
+    color: blue;
 }
 
 a:hover {
-    color: green;
+    color: pink;
 }
 
 a:active {
-    color: pink;
+    color: purple;
 }
 
 p {
