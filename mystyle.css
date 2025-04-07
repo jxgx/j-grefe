@@ -9,19 +9,19 @@ body {
 }
 
 a:link {
-    color: white;
-}
-
-a:visited {
     color: red;
 }
 
+a:visited {
+    color: yellow;
+}
+
 a:hover {
-    color: brown;
+    color: gold;
 }
 
 a:active {
-    color: yellow;
+    color: brown;
 }
 
 p {
