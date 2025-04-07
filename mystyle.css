@@ -1,5 +1,5 @@
 body {
-    background-color: white;
+    background-color: black;
     margin-left: 43px;
     line-height: 80%; 
     font-family: "Roboto", "Arial";
@@ -8,11 +8,11 @@ body {
 }
 
 a:link {
-    color: red;
+    color: white;
 }
 
 a:visited {
-    color: blue;
+    color: red;
 }
 
 a:hover {
@@ -20,7 +20,7 @@ a:hover {
 }
 
 a:active {
-    color: purple;
+    color: yellow;
 }
 
 p {
