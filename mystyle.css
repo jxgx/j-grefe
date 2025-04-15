@@ -9,15 +9,15 @@ body {
 }
 
 a:link {
-    color: gold;
+    color: green;
 }
 
 a:visited {
-    color: pink;
+    color: yellow;
 }
 
 a:hover {
-    color: blue;
+    color: red;
 }
 
 a:active {
