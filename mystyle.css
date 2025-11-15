@@ -1,7 +1,7 @@
 body {
     
-    background-color: black;
-    color: white; 
+    background-color: white;
+    color: black; 
     margin-left: 43px;
     line-height: 80%; 
     font-family: 'Space Mono', monospace; 
@@ -18,7 +18,7 @@ a:visited {
 }
 
 a:hover {
-    color: green;
+    color: pink;
 }
 
 a:active {
