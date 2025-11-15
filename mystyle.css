@@ -1,9 +1,10 @@
 body {
+    
     background-color: black;
     color: white; 
     margin-left: 43px;
     line-height: 80%; 
-    font-family: "Roboto", "Arial";
+    font-family: 'Space Mono', monospace; 
     font-size: 11.5pt;
 
 }
