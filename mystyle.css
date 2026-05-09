@@ -17,7 +17,7 @@ body {
   min-width: 100%;
   min-height: 100%;
   z-index: -1; /* Keeps it behind content */
-  filter: opacity(60%); /* Makes it 60% visible */
+  filter: opacity(80%); /* Makes it 60% visible */
 }
 
 
