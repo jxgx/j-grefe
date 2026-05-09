@@ -9,6 +9,18 @@ body {
 
 }
 
+/* CSS for 60% Opacity Video */
+.bg-video {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  min-width: 100%;
+  min-height: 100%;
+  z-index: -1; /* Keeps it behind content */
+  filter: opacity(60%); /* Makes it 60% visible */
+}
+
+
 a:link {
     color: gray;
 }
