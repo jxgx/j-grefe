@@ -30,11 +30,11 @@ a:visited {
 }
 
 a:hover {
-    color: pink;
+    color: ff00ff;
 }
 
 a:active {
-    color: brown;
+    color: green;
 }
 
 p {
